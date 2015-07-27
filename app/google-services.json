@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_id": "gplusdemo-30bf4",
+    "project_number": "907416884245",
+    "name": "GplusDemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "client_id": "android:com.appifiedtech.androidgoogleplusapi",
+        "client_type": 1,
+        "android_client_info": {"package_name": "com.appifiedtech.androidgoogleplusapi"}
+      },
+      "oauth_client": [
+        {
+          "client_id": "907416884245-0u47s7qhp2fek74n9eee2238kttsck3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appifiedtech.androidgoogleplusapi",
+            "certificate_hash": "3e337cd8723b19f848a84c228d20058486a49db0"
+          }
+        }
+      ],
+      "services": {
+        "analytics_service": {"status": 1},
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {"status": 2},
+        "ads_service": {"status": 1}
+      }
+    }
+  ],
+  "ARTIFACT_VERSION": "1"
+}
